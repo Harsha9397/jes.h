@@ -1,5 +1,6 @@
 # ATM MINIPROJECT.........
 #I John4:4(HE who is in me is greater than,he who is in the world)
+# i am the way the truth and the life
 
 a='''
 1.credit
