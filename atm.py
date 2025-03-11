@@ -1,7 +1,7 @@
 # ATM MINIPROJECT.........
 #I John4:4(HE who is in me is greater than,he who is in the world)
 # i am the way the truth and the life
-#the joy the lord is my strength
+#the joy the lord is my strength and shield
 
 a='''
 1.credit
