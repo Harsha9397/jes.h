@@ -1,1 +1,1 @@
-this is harsha's project git account
+ATM mini project by the Harsha
